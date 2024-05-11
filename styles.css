@@ -225,4 +225,14 @@ body{
     .main-cols{
         width: 85%;
     }
+    .main-cols-1 {
+        width: 85%;
+        flex-direction: column;
+        height: 100%;
+        justify-content: flex-start;
+    }
+    .separator{
+        width: 100%;
+        height: 1px;
+    }
 }
