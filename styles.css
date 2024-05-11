@@ -218,3 +218,11 @@ body{
     margin-bottom: 1rem;
     color: green;
 }
+@media (max-width : 1000px) {
+    .main-Banner{
+        flex-direction: column;
+    }
+    .main-cols{
+        width: 85%;
+    }
+}
