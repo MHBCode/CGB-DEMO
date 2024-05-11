@@ -218,7 +218,7 @@ body{
     margin-bottom: 1rem;
     color: green;
 }
-@media (max-width : 1000px) {
+@media (max-width : 720px) {
     .main-Banner{
         flex-direction: column;
     }
